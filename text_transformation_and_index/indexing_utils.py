@@ -49,7 +49,7 @@ def index(databaseHandler, professor_names, vocab, vector_array):
             if vector_array[i][index] != 0:
                 database_manager.update_index(databaseHandler, token, prof_name, vector_array[i][index])
 
-    
+    print("Finished")
 def form_new_text(dictonary, token_vector):
     resulting_text = []
     for token, index in dictonary.items():

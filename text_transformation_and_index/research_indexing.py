@@ -26,10 +26,6 @@ def main():
     database = database_manager.connectDatabase()
 
     professor_data = getProfessorData(database.professors)
-
-    # for prof in professor_data:
-    #     print(prof['name'])
-    #     print(prof['research'], end="\n\n")
     res = indexData(database.index, professor_data)
 
     if res == 1:
