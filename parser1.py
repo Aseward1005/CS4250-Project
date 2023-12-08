@@ -36,19 +36,6 @@ def getInfo(html):
 
     for field in fields:
         result[field.get_text()] = field.next_sibling
-    #1 is office
-    #result['office'] = fields[1].next_sibling.replace(':', '')
-    #print(office)
-    #2 is phone, which was not asked for
-
-    #fields = infoHtml.find_all('a')
-    #print([field.get_text() for field in fields])
-    #0 is email
-    #result['email'] = fields[0].get_text()
-    #print(email)
-    #1 is website
-    #result['website'] = fields[1].get_text()
-    #print(website)
 
     return result
 
