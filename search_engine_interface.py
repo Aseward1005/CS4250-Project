@@ -77,6 +77,7 @@ while option != "q":
 
         search_query = input("Enter search query: ")
         processQuery(search_query)
+        option = "q"
         
     elif option == "q":
         print("Exiting search engine")
