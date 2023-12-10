@@ -25,11 +25,12 @@ def insertDocument(col, key, document):
     print(document)
     col.update_one(key, document, upsert=True)
 
-def update_index(col, term, professorName, frequency):
+def update_index(col, term, professorName, frequency, tf_idf):
     key = {"Term" : term}
     newDocument = {
         "Professor Name" : professorName,
-        "Frequency" : frequency.item()
+        "Frequency" : frequency.item(),
+        "tf_idf": tf_idf
     }
     
     operation = {"$push" : {"Documents" : newDocument}}

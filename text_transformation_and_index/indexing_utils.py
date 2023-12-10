@@ -1,6 +1,7 @@
 from sklearn.feature_extraction.text import CountVectorizer
 from nltk import word_tokenize
 from nltk.stem import WordNetLemmatizer
+import math
 
 import database_manager
 
@@ -44,12 +45,26 @@ def stemming(text):
     return vocab, vector_array, results
 
 def index(databaseHandler, professor_names, vocab, vector_array):
+    professor_document_size = []
+    document_frequency = [None] * len(vocab)
+    for vector in vector_array:
+        professor_document_size.append( sum(vector) )
+
     for token, index in vocab.items():
         for i, prof_name in enumerate(professor_names):
             if vector_array[i][index] != 0:
-                database_manager.update_index(databaseHandler, token, prof_name, vector_array[i][index])
+                if document_frequency[index] == None:
+                    document_frequency[index] = document_frequency_calculation(vector_array, index)
+                    
+                tf = vector_array[i][index] / professor_document_size[i]
+                df = document_frequency[index]
+                idf = math.log( len(professor_document_size) / df )
+                tf_idf = tf * idf
+
+                database_manager.update_index(databaseHandler, token, prof_name, vector_array[i][index], tf_idf)
 
     print("Finished")
+
 def form_new_text(dictonary, token_vector):
     resulting_text = []
     for token, index in dictonary.items():
@@ -57,3 +72,10 @@ def form_new_text(dictonary, token_vector):
             for _ in range(token_vector[index]):
                 resulting_text.append(token)
     return " ".join(resulting_text)
+
+def document_frequency_calculation(vector_array, index):
+    sum = 0
+    for vector in vector_array:
+        if vector[index] > 0:
+            sum += 1
+    return sum

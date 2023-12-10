@@ -26,6 +26,8 @@ def main():
     database = database_manager.connectDatabase()
 
     professor_data = getProfessorData(database.professors)
+    
+    database.index.drop()
     res = indexData(database.index, professor_data)
 
     if res == 1:
