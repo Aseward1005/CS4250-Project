@@ -10,12 +10,10 @@ def find_research(url):
     html = urlopen(url)
     page = html.read()
     bs = BeautifulSoup(page, 'html.parser')
-    
-    #Finds the name of the professor
-    name = bs.find_all("title")
 
     #Finds the accolade sidebar and determines which sections need to be saved by looking for header text
     #Saves data in variable 'research_text'
+    research_text = None
     accolades = bs.find_all('div', {'class': 'accolades'})
     for accolade in accolades:
         if accolade.find('h2', string=re.compile(r"^R")):
@@ -27,15 +25,19 @@ def find_research(url):
         else:
             continue
 
+    return research_text
+
+def main():
     #MongoDB connection
-    client = MongoClient('mongodb://localhost:27017/')
+    client = MongoClient(host='localhost', port=27017)
     db = client['cs4250project']
     collection = db['professors']
 
-    #Upsert MongoDB data
-    collection.insert_one({"name": name[0].text, "research": research_text})
+    for professor in collection.find():
+        collection.update_one({"_id": professor["_id"]}, {"$set": {"research" : find_research(professor['website'])}})
+
     client.close()
 
-#Insert website of choice here:
-find_research("https://www.cpp.edu/faculty/yongpingz/")
 
+if __name__ == '__main__':
+    main()
