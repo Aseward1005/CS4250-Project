@@ -44,7 +44,8 @@ def getInfo(html):
     fields = infoHtml.find_all('span')
     
     #get the website, which is slightly different from the rest but it's at the end
-    result['website'] = fields.pop().get_text().strip()
+    result['website'] = fields.pop().get_text().strip() #his is wrong because sid is dumb
+    result['website'] = infoHtml.find_all('a').pop()['href'].strip()
 
     #get the rest of the data using the scheme listed above
     for field in fields:
@@ -67,9 +68,9 @@ def main():
     profs = getFacultyTags(html)
 
     #actual parsing and storing
-    print('\n')
     for prof in profs:
         storeInfo(prof, professors)
+        print('\n')
 
 if __name__ == '__main__':
     main()
