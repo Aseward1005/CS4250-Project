@@ -19,6 +19,13 @@ def get_professor_research_blob(col):
         "name": 1,
         "research": 1,
     })
+
+def get_index(col, index_query):
+    return col.find(index_query, {\
+        "_id": 0,
+        "Term": 1,
+        "Documents": 1    
+    })
     
 def insertDocument(col, key, document):
     print(key)
