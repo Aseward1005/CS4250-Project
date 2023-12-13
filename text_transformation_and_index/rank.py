@@ -74,7 +74,14 @@ def rank(dbHandle, text):
 def main():
     db = database_manager.connectDatabase()
 
-    rank(db.index, "soil special")
+    matrix, prof, vocab = rank(db.index, "soil special")
+
+    for index, row in enumerate(matrix):
+        print(prof[index], end="\t")
+        print(row)
+
+    for term, index in vocab.items():
+        print(term, " --> ", "Index:", index)
 
 
 if __name__ == '__main__':
