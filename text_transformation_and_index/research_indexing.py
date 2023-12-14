@@ -7,8 +7,9 @@ def getProfessorData(databaseHandler):
 def indexData(databaseHandler, professorData):
     professorNames, researchBlobs = [], []
     for professor in professorData:
-        professorNames.append(professor['name'])
-        researchBlobs.append(professor['research'])
+        if professor['research'] is not None:
+            professorNames.append(professor['name'])
+            researchBlobs.append(professor['research'])
 
     # Perform Text Transformation
     researchBlobs.append("Trees Tree")
