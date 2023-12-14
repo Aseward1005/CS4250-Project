@@ -18,9 +18,6 @@ def search_engine(search_query):
         prof_doc = db.professors.find_one({"name" : prof_name})
         prof_url = prof_doc.get("website")
         result_urls.insert(0, prof_url)
-        
-    print(result_urls)
-    print("NUMBER OF RESULTS:", len(result_urls))
     
     return result_urls
 
