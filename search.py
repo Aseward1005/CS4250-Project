@@ -19,9 +19,11 @@ def find_research(url):
         if accolade.find('h2', string=re.compile(r"^R")):
             bs.find('h2', string=re.compile(r"^R")).decompose()
             research_text = accolade.text
+            break
         elif bs.find('h2', string=re.compile(r"^Publications")):
             bs.find('h2', string=re.compile(r"^Publications")).decompose()
             research_text = accolade.text
+            break
         else:
             continue
 
