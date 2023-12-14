@@ -2,6 +2,7 @@ import indexing_utils as utils
 import rankOrder as rankOrder
 import database_manager as database_manager
 import rank as rank
+import math
 
 # search engine interface
 
@@ -19,6 +20,7 @@ def search_engine(search_query):
         result_urls.insert(0, prof_url)
         
     print(result_urls)
+    print("NUMBER OF RESULTS:", len(result_urls))
     
     return result_urls
 
@@ -29,14 +31,14 @@ def processQuery(search_query):
     results = search_engine(search_query)
     
     total_results = len(results)
-    total_pages = len(results)//5 + 1
+    total_pages = math.ceil((len(results))/5)
     page_num = 1
     option = ""
     while option != "q":
         
         start_index = page_num*5 - 5
         end_index = page_num*5
-        if end_index >= total_results - 1:
+        if end_index > total_results - 1:
             end_index = total_results
         result_page = results[start_index:end_index]
         
