@@ -3,16 +3,8 @@ import database_manager as database_manager
 import indexing_utils as utils
 import rankOrder as rankOrder
 
-def rank(dbHandle, text):
+def rank(dbHandle, text, vocabulary):
 
-    '''
-    Vectorize Text
-    '''
-    # Remove Stop Words
-    text = utils.remove_stop_words([text])
-
-    # Perform Stemming
-    vocabulary, vector_array, result_text = utils.stemming(text)
     
     '''
     Query Database for related tf-idfs
@@ -77,7 +69,7 @@ def query(user_query):
     user_query_stopping = utils.remove_stop_words([user_query])
     vocabulary, vector_array, result_text = utils.stemming(user_query_stopping)
 
-    matrix, prof, vocab = rank(db.index, result_text[0])
+    matrix, prof, vocab = rank(db.index, result_text[0], vocabulary)
 
     queryWeights = rankOrder.makeQueryWeights(result_text[0], vocab)
 
