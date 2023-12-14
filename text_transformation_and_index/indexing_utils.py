@@ -14,7 +14,6 @@ class LemmaTokenizer:
 
 def remove_stop_words(text):
     vectorizer = CountVectorizer(stop_words='english')
-    print(vectorizer.stop_words)
 
     vectorizer.fit(text)
     # Represents the Index of each term
@@ -33,7 +32,7 @@ def remove_stop_words(text):
     return results
 
 def stemming(text):
-    vectorizer = CountVectorizer(tokenizer=LemmaTokenizer())
+    vectorizer = CountVectorizer(tokenizer=LemmaTokenizer(), token_pattern=None)
     vectorizer.fit(text)
     vocab = vectorizer.vocabulary_
     vector = vectorizer.transform(text)
