@@ -2,15 +2,16 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 import math
 
-def makeQueryWeights(vocab):
-    queryWeight = {}
-    for term, index in vocab:
-        tf = 1/len(vocab)
-        df = 1
-        idf = math.log2(1/df)
-        tf_idf = tf * idf
-        queryWeight.update({index: tf_idf})
-    return queryWeight
+def makeQueryWeights(string, vocab):
+    query_weights = [0] * len(vocab.keys())
+    for word in string.split():
+        query_weights[ vocab[word] ] = query_weights[ vocab[word] ] + 1
+    
+    for i in range(len(query_weights)):
+        query_weights[i] = query_weights[i]/ len(string.split())
+
+    return query_weights
+
 
 #quicksort helper method that works for dictionaries
 def quicksort_dict(input_dict):
@@ -28,8 +29,8 @@ def quicksort_dict(input_dict):
 def rankResults(queryWeights, matrix, prof):
     sorted_dict = {}
     for index, row in enumerate(matrix):
-        query = queryWeights[index]
-        sorted_dict.update({prof[index], cosine_similarity(query, row[index])})
+        cosine_sim = cosine_similarity([queryWeights], [row])
+        sorted_dict.update({prof[index]: cosine_sim})
     return quicksort_dict(sorted_dict)
         
 
