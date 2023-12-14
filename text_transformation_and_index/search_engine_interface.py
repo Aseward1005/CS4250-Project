@@ -16,7 +16,7 @@ def search_engine(search_query):
     for prof_name in professor_names:
         prof_doc = db.professors.find_one({"name" : prof_name})
         prof_url = prof_doc.get("website")
-        result_urls.append(prof_url)
+        result_urls.insert(0, prof_url)
         
     print(result_urls)
     
