@@ -41,6 +41,7 @@ def processQuery(search_query):
         
         print("\nCPP Faculty Research Interest Search Engine")
         print("Query:", search_query)
+        print("Results:", total_results)
         print("Page:", page_num)
         for i,result in enumerate(result_page):
             print((i + start_index + 1), ".", result)
