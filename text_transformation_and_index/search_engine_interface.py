@@ -1,18 +1,26 @@
+import indexing_utils as utils
+import rankOrder as rankOrder
+import database_manager as database_manager
+import rank as rank
+
 # search engine interface
 
 def search_engine(search_query):
     # return results ranked
     
-    # results
-    mock_result = ["https://www.cpp.edu/faculty/prof1/", "https://www.cpp.edu/faculty/prof2/"
-                   , "https://www.cpp.edu/faculty/prof3/", "https://www.cpp.edu/faculty/prof4/"
-                   , "https://www.cpp.edu/faculty/prof5/", "https://www.cpp.edu/faculty/prof6/"
-                   , "https://www.cpp.edu/faculty/prof7/", "https://www.cpp.edu/faculty/prof8/"
-                    , "https://www.cpp.edu/faculty/prof9/", "https://www.cpp.edu/faculty/prof10/",
-                    "https://www.cpp.edu/faculty/prof11/", "https://www.cpp.edu/faculty/prof12/" ]
-
+    db = database_manager.connectDatabase()
+    professor_names = list(rank.query(search_query))
     
-    return mock_result
+    result_urls = []
+    
+    for prof_name in professor_names:
+        prof_doc = db.professors.find_one({"name" : prof_name})
+        prof_url = prof_doc.get("website")
+        result_urls.append(prof_url)
+        
+    print(result_urls)
+    
+    return result_urls
 
 def processQuery(search_query):
     
