@@ -1,6 +1,7 @@
-import indexing_utils as utils
 import database_manager as database_manager
 
+import indexing_utils as utils
+import rankOrder as rankOrder
 
 def rank(dbHandle, text):
 
@@ -70,18 +71,24 @@ def rank(dbHandle, text):
     '''
     return tf_idf_matrix, professors, vocabulary
     
-
-def main():
+def query(user_query):
     db = database_manager.connectDatabase()
 
-    matrix, prof, vocab = rank(db.index, "soil special")
+    user_query_stopping = utils.remove_stop_words([user_query])
+    vocabulary, vector_array, result_text = utils.stemming(user_query_stopping)
 
-    for index, row in enumerate(matrix):
-        print(prof[index], end="\t")
-        print(row)
+    matrix, prof, vocab = rank(db.index, result_text[0])
 
-    for term, index in vocab.items():
-        print(term, " --> ", "Index:", index)
+    queryWeights = rankOrder.makeQueryWeights(result_text[0], vocab)
+
+    results = rankOrder.rankResults(queryWeights, matrix, prof)
+    return results
+
+
+def main():
+    res = query("deep learning")
+
+    print(res)
 
 
 if __name__ == '__main__':
