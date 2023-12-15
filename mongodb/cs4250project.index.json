@@ -1,0 +1,3995 @@
+[{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1943"
+  },
+  "Term": "dr",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1945"
+  },
+  "Term": "salem",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1947"
+  },
+  "Term": "research",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 3,
+      "tf_idf": 0.09954219273489194
+    },
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.0943031299593713
+    },
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.07465664455116895
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.04842593160075825
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d194c"
+  },
+  "Term": "activity",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 2,
+      "tf_idf": 0.09203357962177779
+    },
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d194f"
+  },
+  "Term": "tied",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1951"
+  },
+  "Term": "20",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1953"
+  },
+  "Term": "experience",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 2,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1955"
+  },
+  "Term": "professional",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 2,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1957"
+  },
+  "Term": "industry",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1959"
+  },
+  "Term": "keen",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d195b"
+  },
+  "Term": "involving",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d195d"
+  },
+  "Term": "student",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 2,
+      "tf_idf": 0.09203357962177779
+    },
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.22590060452618185
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1960"
+  },
+  "Term": "publishing",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1962"
+  },
+  "Term": "scholarly",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1964"
+  },
+  "Term": "work",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.04601678981088889
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.06715963918345948
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1967"
+  },
+  "Term": "internationally",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1969"
+  },
+  "Term": "reputable",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d196b"
+  },
+  "Term": "journal",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d196d"
+  },
+  "Term": "conference",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d196f"
+  },
+  "Term": "offered",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1971"
+  },
+  "Term": "wide",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1973"
+  },
+  "Term": "spectrum",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1975"
+  },
+  "Term": "idea",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1977"
+  },
+  "Term": "explore",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1979"
+  },
+  "Term": "benefit",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d197b"
+  },
+  "Term": "example",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d197d"
+  },
+  "Term": "interest",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.04601678981088889
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.06715963918345948
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1980"
+  },
+  "Term": "performance",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.03850817669777473
+    },
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1155245300933242
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.056201122748103675
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1984"
+  },
+  "Term": "based",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.03850817669777473
+    },
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1155245300933242
+    },
+    {
+      "Professor Name": "Kenneth Lamb, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.2310490601866484
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1988"
+  },
+  "Term": "design",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.02281747557949319
+    },
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.10267864010771935
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.028654504216107726
+    },
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 3,
+      "tf_idf": 0.2053572802154387
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.07700898008078952
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.03330118057547655
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.06484966743645433
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1990"
+  },
+  "Term": "special",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1992"
+  },
+  "Term": "structure",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 4,
+      "tf_idf": 0.11619377169732187
+    },
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 3,
+      "tf_idf": 0.1742906575459828
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.036479439951484775
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.09803849486961533
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.0871453287729914
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1998"
+  },
+  "Term": "vulnerability",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d199a"
+  },
+  "Term": "risk",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.04601678981088889
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07765333280587501
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d199d"
+  },
+  "Term": "assessment",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d199f"
+  },
+  "Term": "soil",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.029048442924330467
+    },
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.058096885848660934
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.036479439951484775
+    },
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.06535899657974355
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.1742906575459828
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19a5"
+  },
+  "Term": "interaction",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.04601678981088889
+    },
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.18406715924355557
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19a8"
+  },
+  "Term": "seismic",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.02567211779851649
+    },
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 3,
+      "tf_idf": 0.15403270679109896
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.04332169878499658
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.08664339756999316
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.07701635339554948
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 2,
+      "tf_idf": 0.0749348303308049
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19af"
+  },
+  "Term": "application",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.02567211779851649
+    },
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.07296286111157319
+    },
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11552453009332421
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.06301338005090412
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 2,
+      "tf_idf": 0.12602676010180824
+    },
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.09902102579427789
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19b6"
+  },
+  "Term": "vibration",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19b8"
+  },
+  "Term": "testing",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.04601678981088889
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07765333280587501
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19bb"
+  },
+  "Term": "experimental",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.04601678981088889
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07765333280587501
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19be"
+  },
+  "Term": "modal",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19c0"
+  },
+  "Term": "analysis",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.04601678981088889
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 3,
+      "tf_idf": 0.4659199968352501
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19c3"
+  },
+  "Term": "foundation",
+  "Documents": [
+    {
+      "Professor Name": "Yasser S. Salem, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.05885284871014714
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19c5"
+  },
+  "Term": "deep",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.11295030226309093
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19c8"
+  },
+  "Term": "learning",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.0943031299593713
+    },
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.1493132891023379
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.08144361223763887
+    },
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.16288722447527773
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19cd"
+  },
+  "Term": "data",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.05778852673925582
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19d0"
+  },
+  "Term": "mining",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19d3"
+  },
+  "Term": "statistical",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19d5"
+  },
+  "Term": "modeling",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.10944429166735976
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.04835910562046129
+    },
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.14853153869141683
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19d9"
+  },
+  "Term": "computer",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.20707555414900003
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19dc"
+  },
+  "Term": "vision",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19de"
+  },
+  "Term": "civil",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.0943031299593713
+    },
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1493132891023379
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.08144361223763887
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.04842593160075825
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19e3"
+  },
+  "Term": "engineering",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.04607730196599473
+    },
+    {
+      "Professor Name": "Mikhail Gershfeld, S.E.",
+      "Frequency": 2,
+      "tf_idf": 0.21886718433847496
+    },
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.048637152075216655
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.02735839804230937
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.03979403351608636
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.03979403351608636
+    },
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.03647786405641249
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.048637152075216655
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 4,
+      "tf_idf": 0.09464526890312432
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.04607730196599473
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19ee"
+  },
+  "Term": "traffic",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17749333212771432
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19f1"
+  },
+  "Term": "safety",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.10944429166735976
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.10944429166735976
+    },
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.14853153869141683
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19f5"
+  },
+  "Term": "operation",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19f7"
+  },
+  "Term": "transportation",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.10944429166735976
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1155245300933242
+    },
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.29706307738283366
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19fb"
+  },
+  "Term": "related",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1380503694326667
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d19fe"
+  },
+  "Term": "environment",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.10944429166735976
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.056201122748103675
+    },
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.14853153869141683
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a02"
+  },
+  "Term": "public",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a04"
+  },
+  "Term": "health",
+  "Documents": [
+    {
+      "Professor Name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07765333280587501
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a07"
+  },
+  "Term": "nonlinear",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.09203357962177779
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.15530666561175002
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a0a"
+  },
+  "Term": "response",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 3,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a0c"
+  },
+  "Term": "flexible",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a0e"
+  },
+  "Term": "building",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.11619377169732187
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.036479439951484775
+    },
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 2,
+      "tf_idf": 0.1742906575459828
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.049019247434807664
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.07130072354153842
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a14"
+  },
+  "Term": "large",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.09203357962177779
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07765333280587501
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a17"
+  },
+  "Term": "span",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a19"
+  },
+  "Term": "bridge",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.07701635339554946
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.06498254817749487
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.056201122748103675
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a1d"
+  },
+  "Term": "liquid",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a1f"
+  },
+  "Term": "steel",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.07701635339554946
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.06498254817749487
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.12996509635498973
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a23"
+  },
+  "Term": "frame",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a25"
+  },
+  "Term": "near",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a27"
+  },
+  "Term": "source",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a29"
+  },
+  "Term": "ground",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a2b"
+  },
+  "Term": "motion",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a2d"
+  },
+  "Term": "effect",
+  "Documents": [
+    {
+      "Professor Name": "Lisa Yunxia Wang, Ph.D, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.11770569742029428
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a2f"
+  },
+  "Term": "geographic",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a31"
+  },
+  "Term": "information",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.1493132891023379
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 2,
+      "tf_idf": 0.08333764973153744
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.08144361223763887
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.04842593160075825
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a36"
+  },
+  "Term": "system",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.11552453009332421
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.0322394037469742
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.04332169878499658
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.06301338005090412
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.08664339756999316
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.07701635339554948
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a3d"
+  },
+  "Term": "gi",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a3f"
+  },
+  "Term": "remote",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a41"
+  },
+  "Term": "sensinggeospatial",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a43"
+  },
+  "Term": "crowdsourcingwater",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a45"
+  },
+  "Term": "resource",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.1732867951399863
+    },
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.18904014015271234
+    },
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.08664339756999315
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a49"
+  },
+  "Term": "modelingmachine",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a4b"
+  },
+  "Term": "technique",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.20707555414900003
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.05778852673925582
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a4e"
+  },
+  "Term": "sustainability",
+  "Documents": [
+    {
+      "Professor Name": "Lourdes V. Abellera, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.1732867951399863
+    },
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.10944429166735976
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.10944429166735976
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a52"
+  },
+  "Term": "interested",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a54"
+  },
+  "Term": "infrastructure",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 4,
+      "tf_idf": 0.2311541069570233
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a57"
+  },
+  "Term": "management",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.08255873252178132
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.036479439951484775
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.049019247434807664
+    },
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.0871453287729914
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.08255873252178132
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a5d"
+  },
+  "Term": "construction",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.08255873252178132
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.036479439951484775
+    },
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.0871453287729914
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.07130072354153842
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 4,
+      "tf_idf": 0.3302349300871253
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a63"
+  },
+  "Term": "material",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.10944429166735976
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 2,
+      "tf_idf": 0.12996509635498973
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.056201122748103675
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a67"
+  },
+  "Term": "info",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a69"
+  },
+  "Term": "teaching",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.22590060452618185
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a6c"
+  },
+  "Term": "blog",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.334531982141889
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a6e"
+  },
+  "Term": "pavement",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a70"
+  },
+  "Term": "recycling",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a72"
+  },
+  "Term": "reclaiming",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a74"
+  },
+  "Term": "center",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a76"
+  },
+  "Term": "linkedin",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 2,
+      "tf_idf": 0.13431927836691895
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a79"
+  },
+  "Term": "google",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a7b"
+  },
+  "Term": "scholar",
+  "Documents": [
+    {
+      "Professor Name": "Dragos Andrei, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a7d"
+  },
+  "Term": "aided",
+  "Documents": [
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a7f"
+  },
+  "Term": "numerical",
+  "Documents": [
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.20707555414900003
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.05778852673925582
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a82"
+  },
+  "Term": "method",
+  "Documents": [
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1732867951399863
+    },
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 2,
+      "tf_idf": 0.09671821124092259
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.10944429166735976
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a86"
+  },
+  "Term": "inspection",
+  "Documents": [
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a88"
+  },
+  "Term": "practice",
+  "Documents": [
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a8a"
+  },
+  "Term": "heavy",
+  "Documents": [
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a8c"
+  },
+  "Term": "equipment",
+  "Documents": [
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a8e"
+  },
+  "Term": "microsoft",
+  "Documents": [
+    {
+      "Professor Name": "Hovel Babikian, P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.2648378191956621
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a90"
+  },
+  "Term": "bim",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a92"
+  },
+  "Term": "automatic",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a94"
+  },
+  "Term": "processing",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a96"
+  },
+  "Term": "interpretation",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a98"
+  },
+  "Term": "using",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a9a"
+  },
+  "Term": "2d",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a9c"
+  },
+  "Term": "3d",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1a9e"
+  },
+  "Term": "imaging",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1aa0"
+  },
+  "Term": "technology",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 2,
+      "tf_idf": 0.09671821124092259
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.09452007007635617
+    },
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1155245300933242
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1aa4"
+  },
+  "Term": "behavior",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.04166882486576872
+    },
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.09954219273489194
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.09954219273489194
+    },
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.12798281923057533
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1aa9"
+  },
+  "Term": "underground",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 2,
+      "tf_idf": 0.14781645722548584
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1aab"
+  },
+  "Term": "simulation",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1aad"
+  },
+  "Term": "finite",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 2,
+      "tf_idf": 0.14781645722548584
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1aaf"
+  },
+  "Term": "element",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ab1"
+  },
+  "Term": "difference",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ab3"
+  },
+  "Term": "optimization",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ab5"
+  },
+  "Term": "asset",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ab7"
+  },
+  "Term": "relationship",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ab9"
+  },
+  "Term": "tunneling",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1abb"
+  },
+  "Term": "piping",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1abd"
+  },
+  "Term": "trenchless",
+  "Documents": [
+    {
+      "Professor Name": "Jinsung Cho, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07390822861274292
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1abf"
+  },
+  "Term": "timber",
+  "Documents": [
+    {
+      "Professor Name": "Mikhail Gershfeld, S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.3972567287934932
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ac1"
+  },
+  "Term": "earthquake",
+  "Documents": [
+    {
+      "Professor Name": "Mikhail Gershfeld, S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.19607698973923066
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.049019247434807664
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.07130072354153842
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.0871453287729914
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.042395024808482305
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ac7"
+  },
+  "Term": "community",
+  "Documents": [
+    {
+      "Professor Name": "Mikhail Gershfeld, S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.3972567287934932
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ac9"
+  },
+  "Term": "resilience",
+  "Documents": [
+    {
+      "Professor Name": "Mikhail Gershfeld, S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.25993019270997947
+    },
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.18904014015271234
+    },
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.06498254817749487
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1acd"
+  },
+  "Term": "interdisciplinary",
+  "Documents": [
+    {
+      "Professor Name": "Mikhail Gershfeld, S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.3972567287934932
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1acf"
+  },
+  "Term": "education",
+  "Documents": [
+    {
+      "Professor Name": "Mikhail Gershfeld, S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.19607698973923066
+    },
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.0871453287729914
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.07130072354153842
+    },
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.06535899657974355
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.042395024808482305
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ad5"
+  },
+  "Term": "tall",
+  "Documents": [
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ad7"
+  },
+  "Term": "reliability",
+  "Documents": [
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ad9"
+  },
+  "Term": "rc",
+  "Documents": [
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1adb"
+  },
+  "Term": "shearwall",
+  "Documents": [
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1add"
+  },
+  "Term": "wind",
+  "Documents": [
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1adf"
+  },
+  "Term": "sustainable",
+  "Documents": [
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1380503694326667
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 3,
+      "tf_idf": 0.20147891755037842
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ae2"
+  },
+  "Term": "modular",
+  "Documents": [
+    {
+      "Professor Name": "Sunai Kim, Ph.D., S.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ae4"
+  },
+  "Term": "pedagogyproject",
+  "Documents": [
+    {
+      "Professor Name": "Kenneth Lamb, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ae6"
+  },
+  "Term": "learningteam",
+  "Documents": [
+    {
+      "Professor Name": "Kenneth Lamb, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1ae8"
+  },
+  "Term": "communicationleadership",
+  "Documents": [
+    {
+      "Professor Name": "Kenneth Lamb, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1aea"
+  },
+  "Term": "development",
+  "Documents": [
+    {
+      "Professor Name": "Kenneth Lamb, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.2310490601866484
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.09452007007635617
+    },
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.08664339756999315
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1aee"
+  },
+  "Term": "engineerstechnicalhydroclimatology",
+  "Documents": [
+    {
+      "Professor Name": "Kenneth Lamb, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1af0"
+  },
+  "Term": "forecastingwater",
+  "Documents": [
+    {
+      "Professor Name": "Kenneth Lamb, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1af2"
+  },
+  "Term": "distribution",
+  "Documents": [
+    {
+      "Professor Name": "Kenneth Lamb, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1af4"
+  },
+  "Term": "hydraulics",
+  "Documents": [
+    {
+      "Professor Name": "Kenneth Lamb, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1af6"
+  },
+  "Term": "water",
+  "Documents": [
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.16288722447527773
+    },
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 3,
+      "tf_idf": 0.22396993365350687
+    },
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.16288722447527773
+    },
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 3,
+      "tf_idf": 0.2986265782046758
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1afb"
+  },
+  "Term": "sector",
+  "Documents": [
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1afd"
+  },
+  "Term": "waste",
+  "Documents": [
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1aff"
+  },
+  "Term": "solution",
+  "Documents": [
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.22590060452618185
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.11295030226309093
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b02"
+  },
+  "Term": "environmental",
+  "Documents": [
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.22590060452618185
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.11295030226309093
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b05"
+  },
+  "Term": "remediation",
+  "Documents": [
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.22590060452618185
+    },
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.10353777707450001
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b08"
+  },
+  "Term": "legacy",
+  "Documents": [
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b0a"
+  },
+  "Term": "emerging",
+  "Documents": [
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b0c"
+  },
+  "Term": "contaminant",
+  "Documents": [
+    {
+      "Professor Name": "Simeng Li, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b0e"
+  },
+  "Term": "multi",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07765333280587501
+    },
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.11295030226309093
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b11"
+  },
+  "Term": "hazard",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07765333280587501
+    },
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1380503694326667
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b14"
+  },
+  "Term": "concrete",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.06498254817749487
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.25993019270997947
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 2,
+      "tf_idf": 0.11240224549620735
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b18"
+  },
+  "Term": "composite",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.0993141821983733
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b1a"
+  },
+  "Term": "innovative",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07765333280587501
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.1307845605151579
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b1d"
+  },
+  "Term": "structural",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 4,
+      "tf_idf": 0.25993019270997947
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.12996509635498973
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 2,
+      "tf_idf": 0.11240224549620735
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b21"
+  },
+  "Term": "rehabilitation",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.0993141821983733
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b23"
+  },
+  "Term": "dynamic",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.07765333280587501
+    },
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.15530666561175002
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b26"
+  },
+  "Term": "control",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.0993141821983733
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b28"
+  },
+  "Term": "monitoring",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.0993141821983733
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b2a"
+  },
+  "Term": "engineered",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.0993141821983733
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b2c"
+  },
+  "Term": "metamaterials",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.0993141821983733
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b2e"
+  },
+  "Term": "scale",
+  "Documents": [
+    {
+      "Professor Name": "Giuseppe Lomiento, Ph.D.",
+      "Frequency": 1,
+      "tf_idf": 0.0993141821983733
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b30"
+  },
+  "Term": "unmanned",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b32"
+  },
+  "Term": "aircraft",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b34"
+  },
+  "Term": "uas",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b36"
+  },
+  "Term": "photogrammetry",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b38"
+  },
+  "Term": "light",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b3a"
+  },
+  "Term": "detection",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.11295030226309093
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.11295030226309093
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b3d"
+  },
+  "Term": "ranging",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b3f"
+  },
+  "Term": "lidar",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b41"
+  },
+  "Term": "gnss",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b43"
+  },
+  "Term": "sensor",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b45"
+  },
+  "Term": "fusion",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b47"
+  },
+  "Term": "geospatial",
+  "Documents": [
+    {
+      "Professor Name": "Omar E. Mora, Ph.D., L.S.I.T.",
+      "Frequency": 1,
+      "tf_idf": 0.11295030226309093
+    },
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.11295030226309093
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b4a"
+  },
+  "Term": "integration",
+  "Documents": [
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 2,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b4c"
+  },
+  "Term": "laser",
+  "Documents": [
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 2,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b4e"
+  },
+  "Term": "scanning",
+  "Documents": [
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 2,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b50"
+  },
+  "Term": "model",
+  "Documents": [
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b52"
+  },
+  "Term": "induced",
+  "Documents": [
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b54"
+  },
+  "Term": "liquefaction",
+  "Documents": [
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b56"
+  },
+  "Term": "change",
+  "Documents": [
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b58"
+  },
+  "Term": "uav",
+  "Documents": [
+    {
+      "Professor Name": "Allan Ng, PLS",
+      "Frequency": 1,
+      "tf_idf": 0.144456992288543
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b5a"
+  },
+  "Term": "surface",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.10353777707450001
+    },
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.22590060452618185
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b5d"
+  },
+  "Term": "storm",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.13241890959783106
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b5f"
+  },
+  "Term": "quality",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 3,
+      "tf_idf": 0.25993019270997947
+    },
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.2310490601866484
+    },
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 2,
+      "tf_idf": 0.21888858333471953
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b63"
+  },
+  "Term": "drinking",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.10353777707450001
+    },
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1380503694326667
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b66"
+  },
+  "Term": "low",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.13241890959783106
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b68"
+  },
+  "Term": "impact",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.13241890959783106
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b6a"
+  },
+  "Term": "reclamation",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.13241890959783106
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b6c"
+  },
+  "Term": "decentralized",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.13241890959783106
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b6e"
+  },
+  "Term": "wastewater",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.13241890959783106
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b70"
+  },
+  "Term": "treatment",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.13241890959783106
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b72"
+  },
+  "Term": "recovery",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.13241890959783106
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b74"
+  },
+  "Term": "undergradute",
+  "Documents": [
+    {
+      "Professor Name": "Monica Palomo, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.13241890959783106
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b76"
+  },
+  "Term": "reinforced",
+  "Documents": [
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.15530666561175002
+    },
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.06715963918345948
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b79"
+  },
+  "Term": "prestressed",
+  "Documents": [
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1986283643967466
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b7b"
+  },
+  "Term": "component",
+  "Documents": [
+    {
+      "Professor Name": "Felipe J. Perez, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.1986283643967466
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b7d"
+  },
+  "Term": "pedagogyassessment",
+  "Documents": [
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b7f"
+  },
+  "Term": "sediment",
+  "Documents": [
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b81"
+  },
+  "Term": "transportriver",
+  "Documents": [
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b83"
+  },
+  "Term": "mechanicsstormwater",
+  "Documents": [
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b85"
+  },
+  "Term": "managementflood",
+  "Documents": [
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b87"
+  },
+  "Term": "controlhydrology",
+  "Documents": [
+    {
+      "Professor Name": "Seema Shah-Fairbank, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.288913984577086
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b89"
+  },
+  "Term": "geotechnical",
+  "Documents": [
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50379752547c5d2d1b8b"
+  },
+  "Term": "interation",
+  "Documents": [
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b8d"
+  },
+  "Term": "mechanical",
+  "Documents": [
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b8f"
+  },
+  "Term": "heterogenous",
+  "Documents": [
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b91"
+  },
+  "Term": "microzonation",
+  "Documents": [
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b93"
+  },
+  "Term": "study",
+  "Documents": [
+    {
+      "Professor Name": "Ali Shafiee, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b95"
+  },
+  "Term": "reuse",
+  "Documents": [
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b97"
+  },
+  "Term": "desalination",
+  "Documents": [
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b99"
+  },
+  "Term": "stormwater",
+  "Documents": [
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.35311709226088284
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b9b"
+  },
+  "Term": "membrane",
+  "Documents": [
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b9d"
+  },
+  "Term": "reverse",
+  "Documents": [
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1b9f"
+  },
+  "Term": "osmosis",
+  "Documents": [
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1ba1"
+  },
+  "Term": "electrodialysis",
+  "Documents": [
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1ba3"
+  },
+  "Term": "ion",
+  "Documents": [
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1ba5"
+  },
+  "Term": "exchange",
+  "Documents": [
+    {
+      "Professor Name": "Ali Sharbat, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17655854613044142
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1ba7"
+  },
+  "Term": "analysisis",
+  "Documents": [
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.0858933467661607
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1ba9"
+  },
+  "Term": "wall",
+  "Documents": [
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.0858933467661607
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bab"
+  },
+  "Term": "protective",
+  "Documents": [
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.0858933467661607
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bad"
+  },
+  "Term": "blast",
+  "Documents": [
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.0858933467661607
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1baf"
+  },
+  "Term": "retrofitting",
+  "Documents": [
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.0858933467661607
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bb1"
+  },
+  "Term": "high",
+  "Documents": [
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.0858933467661607
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bb3"
+  },
+  "Term": "fiber",
+  "Documents": [
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.0858933467661607
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bb5"
+  },
+  "Term": "built",
+  "Documents": [
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.06715963918345948
+    },
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.17749333212771432
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bb8"
+  },
+  "Term": "visit",
+  "Documents": [
+    {
+      "Professor Name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+      "Frequency": 1,
+      "tf_idf": 0.0858933467661607
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bba"
+  },
+  "Term": "labor",
+  "Documents": [
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bbc"
+  },
+  "Term": "productivity",
+  "Documents": [
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bbe"
+  },
+  "Term": "text",
+  "Documents": [
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bc0"
+  },
+  "Term": "total",
+  "Documents": [
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bc2"
+  },
+  "Term": "tqm",
+  "Documents": [
+    {
+      "Professor Name": "Jeyoung Woo, Ph.D., P.E., PMP",
+      "Frequency": 1,
+      "tf_idf": 0.1672659910709445
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bc4"
+  },
+  "Term": "travel",
+  "Documents": [
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 2,
+      "tf_idf": 0.45400769004970654
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bc6"
+  },
+  "Term": "demand",
+  "Documents": [
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.22700384502485327
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bc8"
+  },
+  "Term": "active",
+  "Documents": [
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.22700384502485327
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "657b50389752547c5d2d1bca"
+  },
+  "Term": "planning",
+  "Documents": [
+    {
+      "Professor Name": "Yongping Zhang, Ph.D., P.E.",
+      "Frequency": 1,
+      "tf_idf": 0.22700384502485327
+    }
+  ]
+}]

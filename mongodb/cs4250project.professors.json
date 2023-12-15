@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c0"
+  },
+  "website": "https://www.cpp.edu/faculty/ysalem/",
+  "phone number or extension": "909.869.4312",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2651",
+  "email address": "ysalem@cpp.edu",
+  "name": "Yasser S. Salem, Ph.D., S.E.",
+  "title": "Professor and Chair",
+  "research": "\n\n    \t     Dr. Salem research activities are tied to 20+ experience in the professional industry. He is very keen on involving his students in his research activities and publishing scholarly work in internationally reputable journals and conferences. His professional experience offered him a wide spectrum of ideas to explore, which benefits his students. Examples of research interests: Performance-based design for special structures, Vulnerability and Risk Assessment of Structures, Soils-Structure Interaction for seismic application, vibration testing and experimental modal analysis of structures and foundation system.\n    \t"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c1"
+  },
+  "website": "https://www.cpp.edu/faculty/wcheng/",
+  "phone number or extension": "909.869.2957",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2677",
+  "email address": "wcheng@cpp.edu",
+  "name": "Wen Cheng, Ph.D., P.E., T.E., PTOE",
+  "title": "Professor and Associate Chair",
+  "research": "\n\n\nDeep Learning, Data Mining and Statistical Modeling\nApplication of Computer Vision to Civil Engineering\nTraffic Safety and Operation\nTransportation-related Environment\nPublic Health\n\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c2"
+  },
+  "website": "https://www.cpp.edu/faculty/ylwang/",
+  "phone number or extension": "909.869.4641",
+  "fax": "909.869.4342",
+  "email address": "ylwang@cpp.edu",
+  "name": "Lisa Yunxia Wang, Ph.D, P.E.",
+  "title": "Professor and Associate Chair",
+  "research": "\n\nNonlinear seismic response of flexible buildings and large-span bridges\nLiquid-Structure Interaction\nSeismic response of steel frame buildings to near-source ground motions\nSoil-Structure Interaction Effects on seismic response of structures\n \n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c3"
+  },
+  "website": "https://www.cpp.edu/faculty/lvabellera/",
+  "phone number or extension": "909.869.4863",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2688",
+  "email address": "lvabellera@cpp.edu",
+  "name": "Lourdes V. Abellera, Ph.D.",
+  "title": "Associate Professor",
+  "research": "\n\n    \t     Geographic information systems (GIS)Remote sensingGeospatial crowdsourcingWater resources modelingMachine learning techniques for sustainability\n    \t"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c4"
+  },
+  "website": "https://www.cpp.edu/faculty/dandrei/",
+  "phone number or extension": "909.869.2487",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2346",
+  "email address": "dandrei@cpp.edu",
+  "name": "Dragos Andrei, Ph.D., P.E.",
+  "title": "Professor",
+  "research": "\n\nI am interested in sustainability, infrastructure management, and construction materials. You can find more info about myself and my teaching and research activities on my blog:\nMy Blog\nPavement Recycling and Reclaiming Center\nLinkedin\nGoogle Scholar\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c5"
+  },
+  "website": "https://www.cpp.edu/faculty/hybabikian/",
+  "phone number or extension": "909.869.4451",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2683",
+  "email address": "hybabikian@cpp.edu",
+  "name": "Hovel Babikian, P.E.",
+  "title": "Professor",
+  "research": "\n\nComputer Aided Design\nNumerical Methods\nInspection Practices\nHeavy Civil Equipment\nMicrosoft Applications\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c6"
+  },
+  "website": "https://www.cpp.edu/faculty/siddharthb/",
+  "phone number or extension": "909.869.4863",
+  "fax": "909.869.4342",
+  "office location": "17-2684",
+  "email address": "siddharthb@cpp.edu",
+  "name": "Siddharth Banerjee",
+  "title": "Assistant Professor",
+  "research": "\n\n    \t      \n    \t"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c7"
+  },
+  "website": "https://www.cpp.edu/faculty/jinsungcho/",
+  "phone number or extension": "909.869.4613",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2669",
+  "email address": "jinsungcho@cpp.edu",
+  "name": "Jinsung Cho, Ph.D.",
+  "title": "Associate Professor",
+  "research": "\n\n\nBuilding Information Modeling (BIM)\nConstruction Information Techniques\nAutomatic Data Processing and Interpretation by Using 2D/3D Imaging Technology\nBehavior of Infrastructure or Underground Infrastructure\nNumerical Simulation (i.e. Finite Element Method and Finite Difference Method)\nOptimization Design of Underground Infrastructure Systems\nAsset Management in Infrastructure\nRelationship between Soil Structure and Tunneling or Piping\nTrenchless Technology\n\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c8"
+  },
+  "website": "https://www.cpp.edu/faculty/gmgad/",
+  "phone number or extension": "909.869.2648",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2638",
+  "email address": "gmgad@cpp.edu",
+  "name": "Ghada M. Gad, Ph.D.",
+  "title": "Associate Professor",
+  "research": null
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786c9"
+  },
+  "website": "https://www.cpp.edu/faculty/mgershfeld/",
+  "phone number or extension": "909.869.4497",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 9, Rm. 233D",
+  "email address": "mgershfeld@cpp.edu",
+  "name": "Mikhail Gershfeld, S.E.",
+  "title": "Professional Practice Professor",
+  "research": "\n\n \nTimber  Engineering\nEarthquake Engineering\nCommunity Resilience\nInterdisciplinary Education\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786ca"
+  },
+  "website": "https://www.cpp.edu/faculty/mkamalzare/",
+  "phone number or extension": "909.869.4908",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2673",
+  "email address": "mkamalzare@cpp.edu",
+  "name": "Mehrad Kamalzare, Ph.D., P.E.",
+  "title": "Associate Professor",
+  "research": null
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786cb"
+  },
+  "website": "https://www.cpp.edu/faculty/sunaikim/",
+  "phone number or extension": "909.869.4332",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2692",
+  "email address": "sunaikim@cpp.edu",
+  "name": "Sunai Kim, Ph.D., S.E.",
+  "title": "Assistant Professor",
+  "research": "\n\nBehavior of Tall Buildings\nReliability of RC Shearwall Design\nPerformance-Based Wind Design\nEngineering Education \nSustainable Building Design \nModular Construction \n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786cc"
+  },
+  "website": "https://www.cpp.edu/faculty/kwlamb",
+  "phone number or extension": "909.869.3422",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 9, Rm. 406",
+  "email address": "kwlamb@cpp.edu",
+  "name": "Kenneth Lamb, Ph.D., P.E.",
+  "title": "Associate Professor",
+  "research": "\n\nPedagogyProject-Based LearningTeam CommunicationLeadership Development in EngineersTechnicalHydroclimatology and ForecastingWater Distribution System Hydraulics\n    \t"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786cd"
+  },
+  "website": "https://www.cpp.edu/faculty/sli/",
+  "phone number or extension": "909.869.4787",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 9, Rm. 312",
+  "email address": "sli@cpp.edu",
+  "name": "Simeng Li, Ph.D.",
+  "title": "Assistant Professor",
+  "research": "\n\n\nWater sector resilience\nWaste-to-resource solutions\nEnvironmental remediation of legacy and emerging contaminants\n\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786ce"
+  },
+  "website": "https://www.cpp.edu/faculty/glomiento/",
+  "phone number or extension": "909.869.5586",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2663",
+  "email address": "glomiento@cpp.edu",
+  "name": "Giuseppe Lomiento, Ph.D.",
+  "title": "Associate Professor",
+  "research": "\n\n\nEarthquake engineering and seismic risk management\nMulti-hazard resilience\nSteel, concrete, and composite buildings and bridges\nInnovative structural systems and structural rehabilitation\nStructural dynamics and control\nStructural health monitoring\nEngineered materials and metamaterials\nMaterial and large-scale experimental testing\n\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786cf"
+  },
+  "website": "https://www.cpp.edu/faculty/oemora/",
+  "phone number or extension": "909.869.2656",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 9, Rm. 421",
+  "email address": "oemora@cpp.edu",
+  "name": "Omar E. Mora, Ph.D., L.S.I.T.",
+  "title": "Associate Professor",
+  "research": "\n\n\nUnmanned Aircraft Systems (UAS)\nPhotogrammetry\nLight Detection and Ranging (LiDAR)\nGNSS applications\nDeep learning\nMulti-sensor fusion\nGeospatial solutions for civil, construction and environmental engineering\n\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786d0"
+  },
+  "website": "https://www.cpp.edu/faculty/ayng/",
+  "phone number or extension": "909.869.4612",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 9, Rm. 312",
+  "email address": "ayng@cpp.edu",
+  "name": "Allan Ng, PLS",
+  "title": "Lecturer",
+  "research": "\n\nIntegration of Technologies in Geospatial Education  \nLaser Scanning Models Integration with Building Information System  \nLaser Scanning Applications in Earthquake Induced Liquefaction and Change Detection  \nUAV Development and Applications in Engineering\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786d1"
+  },
+  "website": "https://www.cpp.edu/faculty/mpalomo/",
+  "phone number or extension": "909.869.4144",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2661",
+  "email address": "mpalomo@cpp.edu",
+  "name": "Monica Palomo, Ph.D., P.E.",
+  "title": "Professor",
+  "research": "\n\n\nSurface and Storm Water Quality \nDrinking Water Quality \nLow Impact Development\nWater Reclamation\nDecentralized Wastewater Treatment\nResource Recovery\nSoil Quality and Remediation\nUndergradute Research\nEngineering Education\n\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786d2"
+  },
+  "website": "https://www.cpp.edu/faculty/fperez/",
+  "phone number or extension": "909.869.2633",
+  "fax": "909.869.4342",
+  "email address": "fperez@cpp.edu",
+  "name": "Felipe J. Perez, Ph.D., P.E.",
+  "title": "Professor",
+  "research": "\n\nSeismic Analysis and Design of Steel, Reinforced Concrete, and Prestressed Concrete Structures\nNonlinear Analysis of Structural Systems and Components\nDynamic Analysis\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786d3"
+  },
+  "website": "https://www.cpp.edu/faculty/shahfairbank/",
+  "phone number or extension": "909.869.3954",
+  "fax": "909.869.4342",
+  "email address": "shahfairbank@cpp.edu",
+  "name": "Seema Shah-Fairbank, Ph.D., P.E.",
+  "title": "Professor",
+  "research": "\n\n    \t     Teaching PedagogyAssessment of Student Learning Sediment TransportRiver MechanicsStormwater ManagementFlood ControlHydrology/Surface Water\n    \t"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786d4"
+  },
+  "website": "https://www.cpp.edu/faculty/ashafiee/",
+  "phone number or extension": "909.869.2506",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 9, Rm. 246A",
+  "email address": "ashafiee@cpp.edu",
+  "name": "Ali Shafiee, Ph.D., P.E.",
+  "title": "Assistant Professor",
+  "research": "\n\n\nGeotechnical Earthquake Engineering\nSoil-Structure Interation related to Transportation Systems\nMechanical Behavior of Heterogenous Soils\nGeotechnical Hazards\nSeismic Microzonation Studies\n\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786d5"
+  },
+  "website": "https://www.cpp.edu/faculty/sharbat/",
+  "phone number or extension": "909.869.2175",
+  "fax": "909.869.4342",
+  "email address": "sharbat@cpp.edu",
+  "name": "Ali Sharbat, Ph.D., P.E.",
+  "title": "Professor",
+  "research": "\n\nWater Quality\nWater Reuse\nDrinking Water\nDesalination \nStormwater Quality\nStormwater Management \nMembrane Technologies\nReverse Osmosis\nElectrodialysis\nIon-Exchange \n \n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786d6"
+  },
+  "website": "https://www.cpp.edu/faculty/rvasconez/",
+  "phone number or extension": "909.869.2508",
+  "fax": "909.869.4342",
+  "email address": "rvasconez@cpp.edu",
+  "name": "Rosa Vasconez, Ph.D, P.E., LEED AP",
+  "title": "Associate Professor",
+  "research": "\n\nMy research interests are Seismic Design of Bridges, Seismic Analysisis of Structural Walls, Protective (Blast) Engineering, Earthquake Engineering, Structural Retrofitting, High-Performance Fiber Reinforced Concrete, Sustainable Concrete, Sustainable Civil Engineering Materials, Sustainable Built Environments and Engineering Education.\nVisit my linkedin for more information about my work:\n \nLinkedin\n \n \n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786d7"
+  },
+  "website": "https://www.cpp.edu/faculty/jwoo/",
+  "phone number or extension": "909-869-2471",
+  "fax": "909.869.4342",
+  "office location": "9-310",
+  "email address": "jwoo@cpp.edu",
+  "name": "Jeyoung Woo, Ph.D., P.E., PMP",
+  "title": "Assistant Professor",
+  "research": "\n\n\nEngineering Design Quality\nConstruction Labor Productivity\nConstruction Sustainability\nConstruction Safety\nText Mining\nTotal Quality Management (TQM)\nInnovative Construction Methods\n\n"
+},
+{
+  "_id": {
+    "$oid": "657a7277f8473cc87c7786d8"
+  },
+  "website": "https://www.cpp.edu/faculty/yongpingz/",
+  "phone number or extension": "909.869.2632",
+  "fax": "909.869.4342",
+  "office location": "Bldg. 17, Rm. 2684",
+  "email address": "yongpingz@cpp.edu ",
+  "name": "Yongping Zhang, Ph.D., P.E.",
+  "title": "Associate Professor",
+  "research": "\n\n\nTravel demand modeling\nTravel behavior\nTraffic safety\nActive transportation and the built environment\nTransportation planning applications\n\n"
+}]
